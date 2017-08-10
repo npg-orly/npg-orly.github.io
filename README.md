@@ -1,2 +1,0 @@
-# npg
-Official website
